@@ -8,7 +8,7 @@ openai==0.27.8
 opencv_python==4.8.0.74
 timm==0.9.5
 pycocotools==2.0.6
-controlnet_aux=0.0.6
+controlnet_aux==0.0.6
 accelerate==0.21.0
 xformers==0.0.20
 mediapipe==0.10.3
